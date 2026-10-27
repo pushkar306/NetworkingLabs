@@ -11,4 +11,3 @@ The repository is intended as a long-term learning journal and will grow alongsi
 ## Labs
 
 - [01. Building & Managing a Layer 2 Network](./01.%20Building%20%26%20Managing%20a%20Layer%202%20Network/readme.md)
-- [02. Site to Site VPN & Attacks](./02.%20Site%20to%20Site%20VPN%20%26%20Attacks/README.md)
